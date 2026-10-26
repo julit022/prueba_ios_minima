@@ -1,0 +1,19 @@
+{
+  "project": "prueba_ios_minima",
+  "platform": "ios",
+  "github": {
+    "owner": "julit022",
+    "repo": "prueba_ios_minima"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {},
+  "flutter": {
+    "version": "3.44.9",
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
